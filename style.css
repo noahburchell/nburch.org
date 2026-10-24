@@ -10,10 +10,20 @@
   font-family: "Iosevka";
   font-weight: 700;
   font-display: swap;
-  src: local("Iosevka"),
+  src: local("Iosevka Bold"),
      url(./fonts/iosevka-700.woff2) format("woff2");
 }
 
 * {
   font-family: "Iosevka", monospace;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+body {
+    margin: 30px;
+    color: #aaaaaa;
+    background-color: #000000;
 }
