@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Iosevka";
+  font-weight: 400;
+  font-display: swap;
+  src: local("Iosevka"),
+       url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-400-normal.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Iosevka";
+  font-weight: 700;
+  font-display: swap;
+  src: local("Iosevka"),
+       url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-700-normal.woff2) format("woff2");
+}
+
+* {
+  font-family: "Iosevka", monospace;
+}
