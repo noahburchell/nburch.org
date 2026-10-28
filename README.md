@@ -1,3 +1,3 @@
-for my blog go to <flaregun.org>
+for my blog go to [flaregun.org](http://flaregun.org)
 
 nothing here...
